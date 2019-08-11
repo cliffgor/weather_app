@@ -15,6 +15,6 @@
 
 ## Screenshot
 - here is a screenshot of how the app looks like
-<img src="screenshot/weather_app.png"
+<img src="screenshot/weather_app.PNG"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
