@@ -1,6 +1,6 @@
 ## Weather App
 
-- This is a weather app that displays the current weather forcus of you location
+- This is a weather app that displays the current weather forecast of you location.
 
   
 
